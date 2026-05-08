@@ -16,4 +16,4 @@ Sistema simples em Python para controle de entradas, saídas e saldo.
 ```bash
 python controle_financeiro.py
 ```
->>>>>>> 407cd4a301779a827a751f7306aa7a177eabdede
+
